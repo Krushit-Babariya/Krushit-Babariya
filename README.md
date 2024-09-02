@@ -12,15 +12,13 @@ I am a Java Spring Boot developer.
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Python](https://skillicons.dev/icons?i=python)
 ![PHP](https://skillicons.dev/icons?i=php)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 
 # 🗄️ Database Skills:
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Oracle](https://skillicons.dev/icons?i=oracle)
+![Oracle](https://skillicons.dev/icons?i=MySQL-Light)
 
 # 🖥️ Web Development Skills:
-![Spring Boot](https://skillicons.dev/icons?i=springboot)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![React](https://skillicons.dev/icons?i=react)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Maven](https://skillicons.dev/icons?i=maven)
