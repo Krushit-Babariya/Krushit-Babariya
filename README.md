@@ -15,7 +15,6 @@ I am a Java Spring Boot developer.
 
 # 🗄️ Database Skills:
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Oracle](https://skillicons.dev/icons?i=MySQL-Light)
 
 # 🖥️ Web Development Skills:
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
