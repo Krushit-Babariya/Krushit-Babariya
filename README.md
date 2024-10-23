@@ -1,7 +1,9 @@
 <!-- Animated Header with Background GIF -->
-<div style="background: url('https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif') center/cover no-repeat; padding: 10px 0; text-align: center; border-radius: 10px;">
-  <h1 style="color: white; font-size: 48px; font-weight: bold;">✨ Krushit Babariya ✨</h1>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif" width="100%" height="250" style="border-radius: 10px;" alt="Background animation">
+</p>
+<h1 align="center" style="color: white; margin-top: -180px; font-size: 48px; font-weight: bold;">Krushit Babariya</h1>
+
 
 <!-- Typing Animation -->
 <p align="center">
