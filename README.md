@@ -18,10 +18,10 @@
 <!-- GitHub & LeetCode Stats -->
 <div style="display: flex; justify-content: center; align-items: center; background-color: #1a1a1a; padding: 10px; border-radius: 10px; gap: 10px; width: 100%">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="height: 150px; width: 100%; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="height: 150px; border-radius: 10px;"/>
   
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Top Languages" style="height: 150px; width: 100%; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Top Languages" style="height: 150px; border-radius: 10px;" />
   
 </div>
 <br>
