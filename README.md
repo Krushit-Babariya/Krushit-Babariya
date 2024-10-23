@@ -9,6 +9,9 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 <div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <h3 style="color: #ffffff;">GitHub Stats</h3>
