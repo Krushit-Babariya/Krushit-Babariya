@@ -4,6 +4,7 @@
     <h1 align="center">✩&emsp;Krushit Babariya&emsp;✩</h1>
 </p>
 
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krushit-Babariya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" style="border-radius: 5px;" />
 </p>
