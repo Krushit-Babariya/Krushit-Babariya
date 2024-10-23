@@ -3,12 +3,12 @@
 <p align="center">
     <h1 align="center">✩&emsp;Krushit Babariya&emsp;✩</h1>
 </p>
-
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krushit-Babariya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" style="border-radius: 5px;" />
 </p>
 
+<br>
+<br>
 <div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <h3 style="color: #ffffff;">GitHub Stats</h3>
