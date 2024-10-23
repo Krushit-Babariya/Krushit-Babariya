@@ -1,8 +1,6 @@
-<!-- Main container with background GIF -->
-<div style="background: url('https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif') center/cover no-repeat; padding: 50px 0; text-align: center;">
 
+<div style="background: url('https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif') center/cover no-repeat; padding: 10px 0; text-align: center;">
   <h1 style="color: white; font-size: 48px; font-weight: bold;"> Krushit Babariya </h1>
-
 </div>
 
 
