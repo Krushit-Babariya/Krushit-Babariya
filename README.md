@@ -1,9 +1,7 @@
 <!-- Animated Header with Background GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif" width="100%" height="250" style="border-radius: 10px;" alt="Background animation">
-</p>
-<h1 align="center" style="color: white; margin-top: -180px; font-size: 48px; font-weight: bold;">Krushit Babariya</h1>
-
+<div style="background: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif') center/cover no-repeat; padding: 10px 0; text-align: center; border-radius: 10px;">
+  <h1 style="color: white; font-size: 48px; font-weight: bold;">✨ Krushit Babariya ✨</h1>
+</div>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -16,7 +14,7 @@
 </p>
 
 <!-- GitHub & LeetCode Stats -->
-<div style="display: flex; justify-content: center; align-items: center; background-color: #1a1a1a; padding: 10px; border-radius: 10px; gap: 10px; width: 100%">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #1a1a1a; padding: 10px; border-radius: 10px; gap: 10px;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="height: 150px; border-radius: 10px;"/>
   
