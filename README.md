@@ -18,10 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Top Languages" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://leetcode.card.workers.dev/Krushit_40_?theme=dark&amp;font=baloo&amp;extension=null&amp;border=4&amp;border_radius=10" alt="LeetCode Stats" style="max-width: 100%;" />
+  <img width="48%" src="https://leetcode.card.workers.dev/Krushit_40_?theme=dark&amp;font=baloo&amp;extension=null&amp;border=2&amp;border_radius=10" alt="LeetCode Stats" style="max-width: 100%;" />
 </p>
 
 # 🌐 Socials:
