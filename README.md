@@ -1,33 +1,35 @@
-<!-- Animated Header with Background GIF -->
-<div style="background: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif') center/cover no-repeat; padding: 10px 0; text-align: center; border-radius: 10px;">
-  <h1 style="color: white; font-size: 48px; font-weight: bold;">✨ Krushit Babariya ✨</h1>
+<!-- Profile Section Heading with GIF background -->
+<div style="background: url('https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif') center/cover no-repeat; padding: 10px 0; text-align: center; border-radius: 10px;">
+  <h1 style="color: white; font-size: 48px; font-weight: bold;">Krushit Babariya</h1>
 </div>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hellooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50" alt="Typing Animation" style="max-width: 100%;" />
-</p>
 
 <!-- Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krushit-Babariya&label=Profile%20views&color=0e75b6&style=flat" alt="Krushit Babariya" />
+  <img src="https://komarev.com/ghpvc/?username=Krushit-Babariya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Krushit Babariya's Profile Views" style="border-radius: 5px;" />
 </p>
 
-<!-- GitHub & LeetCode Stats -->
-<div style="display: flex; justify-content: center; align-items: center; background-color: #1a1a1a; padding: 10px; border-radius: 10px; gap: 10px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="height: 150px; border-radius: 10px;"/>
-  
-  <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Top Languages" style="height: 150px; border-radius: 10px;" />
-  
+<!-- Container for Stats -->
+<div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
+
+  <!-- GitHub Stats Section -->
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <h3 style="color: #ffffff;">Krushit-Babariya's GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="border-radius: 10px; max-width: 100%; margin: 10px 0;" />
+  </div>
+
+  <!-- Most Used Languages Section -->
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <h3 style="color: #ffffff;">Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Most Used Languages" style="border-radius: 10px; max-width: 100%; margin: 10px 0;" />
+  </div>
 </div>
-<br>
-  
-  <p align="center">
-  <!-- LeetCode Stats -->
-  <img src="https://leetcode.card.workers.dev/Krushit_40_?theme=dark&font=baloo&extension=null&border=2&border_radius=10" alt="Krushit_Babariya's LeetCode Stats" style="height: 150px; border-radius: 10px; max-width: 100%;" />
-  </p>
+
+<!-- LeetCode Stats Section -->
+<div style="text-align: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
+  <h3 style="color: #ffffff;">LeetCode Stats</h3>
+  <img src="https://leetcode.card.workers.dev/Krushit_40_?theme=dark&amp;font=baloo&amp;extension=null&amp;border=2&amp;border_radius=10" alt="Krushit Babariya's LeetCode Stats" style="border-radius: 10px; max-width: 100%;" />
+</div>
+
 
 <!-- Social Links -->
 <h2>🌐 Socials:</h2>
