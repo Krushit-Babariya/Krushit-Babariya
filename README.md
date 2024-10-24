@@ -12,6 +12,12 @@
 <br>
 <br>
 <br>
+<!-- Custom Animation or dynamic text using gif or css -->
+<p align="center">
+  <a href="https://github.com/krushitbabariya">
+    <img src="https://readme-typing-svg.demolab.com?font=Alata&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=435&lines=Hellooooooooooo;How+are+you...??;Having+some+look+around!" alt="Typing SVG" />
+  </a>
+</p>
 <div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <h3 style="color: #ffffff;">GitHub Stats</h3>
