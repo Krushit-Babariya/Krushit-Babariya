@@ -18,11 +18,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Alata&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=435&lines=Hellooooooooooo;How+are+you...??;Having+some+look+around!" alt="Typing SVG" />
   </a>
 </p>
-<div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
+<!-- <div style="display: flex; justify-content: space-around; align-items: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <h3 style="color: #ffffff;">GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="border-radius: 10px; max-width: 100%; margin: 10px 0;" />
-  </div>
+  </div> -->
 
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <h3 style="color: #ffffff;">Most Used Languages</h3>
