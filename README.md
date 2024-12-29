@@ -32,7 +32,7 @@
 
 <div style="text-align: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
   <h3 style="color: #ffffff;">LeetCode Stats</h3>
-  <img src="https://leetcode.card.workers.dev/Krushit_40_?theme=dark&amp;font=baloo&amp;extension=null&amp;border=2&amp;border_radius=10" alt="Krushit Babariya's LeetCode Stats" style="border-radius: 10px; max-width: 100%;" />
+  <img src="https://leetcard.jacoblin.cool/Krushit_40_?theme=dark&amp;font=baloo&amp;extension=null&amp;border=2&amp;border_radius=10" alt="Krushit Babariya's LeetCode Stats" style="border-radius: 10px; max-width: 100%;" />
 </div>
 
 <h2>🌐 Socials:</h2>
