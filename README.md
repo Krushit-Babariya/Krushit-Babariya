@@ -23,11 +23,6 @@
     <h3 style="color: #ffffff;">GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Krushit-Babariya&show_icons=true&theme=tokyonight&count_private=true" alt="Krushit_Babariya's GitHub Stats" style="border-radius: 10px; max-width: 100%; margin: 10px 0;" />
   </div> -->
-
-  <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <h3 style="color: #ffffff;">Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushit-Babariya&langs_count=5&theme=tokyonight&layout=compact" alt="Krushit_Babariya's Most Used Languages" style="border-radius: 10px; max-width: 100%; margin: 10px 0;" />
-  </div>
 </div>
 
 <div style="text-align: center; background-color: #1a1a1a; padding: 20px; border-radius: 10px; margin: 20px;">
